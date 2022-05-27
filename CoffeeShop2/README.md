@@ -7,7 +7,7 @@ This service implements the exercise asked by Basement Crowd, following the inst
 The service has been built with Spring Boot 2, a very well-known framework based in Java, that it's able to develop in a fast and easy way a web service, creating standalone applications, and no need for the deployment of war files.
 
 
-cambio 10
+cambio 100
 
 
 ## TECHNICAL NOTES
