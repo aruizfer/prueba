@@ -1,2 +1,2 @@
 # prueba
-Example of README.mdd
+Example of README.md
