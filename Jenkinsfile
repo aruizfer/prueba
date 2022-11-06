@@ -3,8 +3,9 @@ pipeline {
         stages { 
             stage ('Build') { 
                 steps { 
-                    echo 'Running build phase. '
+                    echo 'Running build phase. Go to checkout scm'
                     checkout scm
+                    echo 'checkout scm DONE'
                 }
             }
         }
